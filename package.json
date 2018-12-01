@@ -1,0 +1,12 @@
+{
+  "name": "advent2018",
+  "version": "1.0.0",
+  "description": "Advent of code 2018 solutions.",
+  "main": "index.js",
+  "author": "Evan Banyash",
+  "license": "RESTRICTED",
+  "private": true,
+  "dependencies": {
+    "@types/node": "^10.12.11"
+  }
+}
